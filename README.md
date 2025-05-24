@@ -41,3 +41,14 @@ git clone https://github.com/mattweedy/MusicTaster.git
 3. **Build and Run:**
 - Connect an Android device or start an emulator.
 - Click the "Run" button to build and launch the app.
+## Screenshots
+![image](https://github.com/user-attachments/assets/cf739536-3e42-481c-9517-0316cf677e46)
+![image](https://github.com/user-attachments/assets/9c309e32-1863-4379-93ae-b74edab67198)
+![image](https://github.com/user-attachments/assets/621b9069-702e-40f8-91d6-51fb9ef7d650)
+## Future Enhancements
+- **Online Integration:** Fetch real-time data from music APIs.
+- **User Authentication:** Implement secure login and registration.
+- **Enhanced UI/UX:** Improve the user interface for better experience.
+- **Playlist Management:** Allow users to create and manage custom playlists.
+## License
+This project is licensed under the MIT License
